@@ -9,7 +9,7 @@
 
 ---
 
-**Caygnus Memory Engine** is a highly optimized backend prototype designed to solve **Problem 4 (Trustworthy Long-Term Memory)** of the Caygnus Product Engineering Challenge. Built strictly with TypeScript and Node.js, this system provides a deterministic, zero-dependency Retrieval-Augmented Generation (RAG) architecture.
+**Caygnus Memory Engine** is a highly optimized backend prototype designed to handle storing, retrieving, correcting, and deleting trustworthy long-term conversational memories while preserving their source and history. Built strictly with TypeScript and Node.js, this system provides a deterministic, zero-dependency Retrieval-Augmented Generation (RAG) architecture.
 
 It explicitly handles data provenance, memory lifecycle management, explicit corrections, and lexical gap bridging without relying on non-deterministic external LLMs or third-party APIs.
 
