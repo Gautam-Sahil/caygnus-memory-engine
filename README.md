@@ -71,7 +71,7 @@ To test the Memory Engine locally:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/caygnus-memory-engine.git
+git clone https://github.com/Gautam-Sahil/caygnus-memory-engine.git
 cd caygnus-memory-engine
 ```
 
